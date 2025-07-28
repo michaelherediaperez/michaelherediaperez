@@ -18,6 +18,7 @@ Here’s a curated index of my public repositories, categorized by purpose:
 
 ### 🎓 Lectures & teaching notebooks
 - **[medio‑continuo](https://github.com/michaelherediaperez/medio‑continuo)**
+
   Complete materials for a course in continuum mechanics and mechanics of solids.
   
 - **[analisis‑estructural](https://github.com/michaelherediaperez/analisis‑estructural)**
