@@ -12,8 +12,7 @@
 Here’s a curated index of my public repositories, categorized by purpose:
 
 ### 📚 Academic publications
-- **[ms-thesis-code](https://github.com/michaelherediaperez/ms-thesis-code)**  
-  Python implementation of my master's thesis: "A state-of-the-art review of the Bouc-Wen model and hysteresis characterization through sparse regression techniques".
+- **[ms-thesis-code](https://github.com/michaelherediaperez/ms-thesis-code)** --  Python implementation of my master's thesis: "A state-of-the-art review of the Bouc-Wen model and hysteresis characterization through sparse regression techniques".
 
 
 ### 🎓 Lectures & teaching notebooks
