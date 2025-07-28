@@ -1,9 +1,25 @@
 ## 👋 Hi, something about me:
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<!-- GIF aligned to the right -->
-<p align="right">
-  <img src="cat-typing.gif" alt="Cat Typing" width="200">
-</p>
+  <div style="flex: 1; min-width: 300px;">
+
+  <h2>👋 Hi, something about me:</h2>
+
+  - 🏗️ Civil & Structural Engineer who codes.  
+  - 🎓 Master's thesis in Engineering pending defense.  
+  - 🐍 Python developer — scientific computing & software tools.  
+  - 🗂️ Exploring AI & ML applications in engineering.  
+  - 💻 Passionate about computer science and research.  
+  - 🏋️ Good lifter, 🏃 average runner.  
+  - 🇨🇴  
+
+  </div>
+
+  <div>
+    <img src="cat-typing.gif" alt="Cat Typing" width="150">
+  </div>
+
+</div>
 
 - :building_construction: Civil & Structural Engineer who codes.  
 - :mortar_board: Master's thesis in Engineering pending defense.  
