@@ -12,29 +12,23 @@
 Here’s a curated index of my public repositories, categorized by purpose:
 
 ### 📚 Academic publications
-- **[ms-thesis-code](https://github.com/michaelherediaperez/ms-thesis-code)** --  Python implementation of my master's thesis: "A state-of-the-art review of the Bouc-Wen model and hysteresis characterization through sparse regression techniques".
+- **[ms-thesis-code](https://github.com/michaelherediaperez/ms-thesis-code)**: Python implementation of my master's thesis: "A state-of-the-art review of the Bouc-Wen model and hysteresis characterization through sparse regression techniques".
 
 
 ### 🎓 Lectures & teaching notebooks
-- **[medio‑continuo](https://github.com/michaelherediaperez/medio‑continuo)**
-
-  Complete materials for a course in continuum mechanics and mechanics of solids.
+- **[medio‑continuo](https://github.com/michaelherediaperez/medio‑continuo)**: Complete materials for a course in continuum mechanics and mechanics of solids.
   
-- **[analisis‑estructural](https://github.com/michaelherediaperez/analisis‑estructural)**
-  Course content for mechanics of materials and structural analysis.   
+- **[analisis‑estructural](https://github.com/michaelherediaperez/analisis‑estructural)**: Course content for mechanics of materials and structural analysis.   
 
 
 ### 🧰 Tools & projects
 
-- **[ParaView](https://github.com/michaelherediaperez/ParaView)**
-   Tutorial on how to work with ParaView for multiphysics data visualization.
+- **[ParaView](https://github.com/michaelherediaperez/ParaView)**: Tutorial on how to work with ParaView for multiphysics data visualization.
 
-- **[dynamics‑solids‑structures](https://github.com/michaelherediaperez/dynamics‑solids‑structures)**
-    Python implementations on structural dynamics  
+- **[dynamics‑solids‑structures](https://github.com/michaelherediaperez/dynamics‑solids‑structures)**: Python implementations on structural dynamics  
 
 ## 🗂️ Miscellaneous
-- **[universidad_pre_esp](https://github.com/michaelherediaperez/universidad_pre_esp)**
-  Some undergraduate/graduate projects
+- **[universidad_pre_esp](https://github.com/michaelherediaperez/universidad_pre_esp)**: Some undergraduate/graduate projects
 
 
 <!--
