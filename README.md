@@ -1,5 +1,10 @@
 ## 👋 Hi, something about me:
 
+<!-- GIF aligned to the right -->
+<p align="right">
+  <img src="cat-typing.gif" alt="Cat Typing" width="200">
+</p>
+
 - :building_construction: Civil & Structural Engineer who codes.  
 - :mortar_board: Master's thesis in Engineering pending defense.  
 - :snake: Python developer — scientific computing & software tools.  
