@@ -1,25 +1,27 @@
 ## 👋 Hi, something about me:
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-  <div style="flex: 1; min-width: 300px;">
+<table>
+  <tr>
+    <td>
 
   <h2>👋 Hi, something about me:</h2>
 
-  - 🏗️ Civil & Structural Engineer who codes.  
-  - 🎓 Master's thesis in Engineering pending defense.  
-  - 🐍 Python developer — scientific computing & software tools.  
-  - 🗂️ Exploring AI & ML applications in engineering.  
-  - 💻 Passionate about computer science and research.  
-  - 🏋️ Good lifter, 🏃 average runner.  
-  - 🇨🇴  
+  <ul>
+    <li>🏗️ Civil & Structural Engineer who codes.</li>
+    <li>🎓 Master's thesis in Engineering pending defense.</li>
+    <li>🐍 Python developer — scientific computing & software tools.</li>
+    <li>🗂️ Exploring AI & ML applications in engineering.</li>
+    <li>💻 Passionate about computer science and research.</li>
+    <li>🏋️ Good lifter, 🏃 average runner.</li>
+    <li>🇨🇴</li>
+  </ul>
 
-  </div>
-
-  <div>
-    <img src="cat-typing.gif" alt="Cat Typing" width="150">
-  </div>
-
-</div>
+    </td>
+    <td>
+      <img src="cat-typing.gif" alt="Cat typing" width="160">
+    </td>
+  </tr>
+</table>
 
 - :building_construction: Civil & Structural Engineer who codes.  
 - :mortar_board: Master's thesis in Engineering pending defense.  
