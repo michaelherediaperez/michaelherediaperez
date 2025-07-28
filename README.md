@@ -27,7 +27,7 @@ Here’s a curated index of my public repositories, categorized by purpose:
 
 - **[dynamics‑solids‑structures](https://github.com/michaelherediaperez/dynamics‑solids‑structures)**: Python implementations on structural dynamics  
 
-## 🗂️ Miscellaneous
+### 🗂️ Miscellaneous
 - **[universidad_pre_esp](https://github.com/michaelherediaperez/universidad_pre_esp)**: Some undergraduate/graduate projects
 
 
