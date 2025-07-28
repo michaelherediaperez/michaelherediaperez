@@ -1,28 +1,5 @@
 ## 👋 Hi, something about me:
 
-<table>
-  <tr>
-    <td>
-
-  <h2>👋 Hi, something about me:</h2>
-
-  <ul>
-    <li>🏗️ Civil & Structural Engineer who codes.</li>
-    <li>🎓 Master's thesis in Engineering pending defense.</li>
-    <li>🐍 Python developer — scientific computing & software tools.</li>
-    <li>🗂️ Exploring AI & ML applications in engineering.</li>
-    <li>💻 Passionate about computer science and research.</li>
-    <li>🏋️ Good lifter, 🏃 average runner.</li>
-    <li>🇨🇴</li>
-  </ul>
-
-    </td>
-    <td>
-      <img src="cat-typing.gif" alt="Cat typing" width="160">
-    </td>
-  </tr>
-</table>
-
 - :building_construction: Civil & Structural Engineer who codes.  
 - :mortar_board: Master's thesis in Engineering pending defense.  
 - :snake: Python developer — scientific computing & software tools.  
