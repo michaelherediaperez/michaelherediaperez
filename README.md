@@ -1,4 +1,4 @@
-## 👋 Hi, something about me:
+## 👋 Hola
 
 - :building_construction: Civil & Structural Engineer who codes.  
 - :mortar_board: Master's thesis in Engineering pending defense.  
@@ -6,8 +6,6 @@
 - :robot: Exploring AI & ML applications in engineering.  
 - :computer: Passionate about computer science and research.
 - :weight_lifting: Good lifter, :runner: average runner.
-- :colombia: 
-
 
 Here’s a curated index of my public repositories, categorized by purpose:
 
