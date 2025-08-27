@@ -5,7 +5,7 @@
 - :snake: Python developer — scientific computing & software tools.  
 - :robot: Exploring AI & ML applications in engineering.  
 - :computer: Passionate about computer science and research.
-- :weight_lifting: Good lifter, :runner: average runner.
+- :weight_lifting: Good lifter, :runner: average runner, 🏊‍♂️ enjoy swimming.
 
 Here’s a curated index of my public repositories, categorized by purpose:
 
@@ -13,7 +13,7 @@ Here’s a curated index of my public repositories, categorized by purpose:
 - **[ms-thesis-code](https://github.com/michaelherediaperez/ms-thesis-code)**: Python implementation of my master's thesis: "A state-of-the-art review of the Bouc-Wen model and hysteresis characterization through sparse regression techniques".
 
 
-### 🎓 Lectures & teaching notebooks
+### 🎓 Lectures & teaching 
 - **[medio‑continuo](https://github.com/michaelherediaperez/medio‑continuo)**: Complete materials for a course in continuum mechanics and mechanics of solids.
   
 - **[analisis‑estructural](https://github.com/michaelherediaperez/analisis‑estructural)**: Course content for mechanics of materials and structural analysis.   
