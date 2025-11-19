@@ -1,7 +1,7 @@
 ## 👋 Hola
 
 - :building_construction: Civil & Structural Engineer who codes.  
-- :mortar_board: Master's thesis in Engineering pending defense.  
+- :mortar_board: Magister in Engineering (Meritorious thesis).  
 - :snake: Python developer — scientific computing & software tools.  
 - :robot: Exploring AI & ML applications in engineering.  
 - :computer: Passionate about computer science and research.
