@@ -23,10 +23,11 @@ Here’s a curated index of my public repositories, categorized by purpose:
 
 - **[ParaView](https://github.com/michaelherediaperez/ParaView)**: Tutorial on how to work with ParaView for multiphysics data visualization.
 
-- **[dynamics‑solids‑structures](https://github.com/michaelherediaperez/dynamics‑solids‑structures)**: Python implementations on structural dynamics  
+- **[dynamics‑solids‑structures](https://github.com/michaelherediaperez/dynamics‑solids‑structures)**: Python implementations on structural dynamics.
 
 ### 🗂️ Miscellaneous
-- **[universidad_pre_esp](https://github.com/michaelherediaperez/universidad_pre_esp)**: Some undergraduate/graduate projects
+- **[universidad_pre_esp](https://github.com/michaelherediaperez/universidad_pre_esp)**: Some undergraduate/graduate projects.
+- **[procesamiento-datos-ensayos-compresion](https://github.com/michaelherediaperez/procesamiento-datos-ensayos-compresion)**: Python processing with Python of mechanics experimentation data.
 
 
 <!--
